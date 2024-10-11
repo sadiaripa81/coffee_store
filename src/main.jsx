@@ -10,8 +10,6 @@ import {
 import AddCoffee from './components/addCoffee.jsx';
 import UpdateCoffee from './components/UpdateCoffee.jsx';
 
-
-
 const router = createBrowserRouter([
   {
     path: "/",
